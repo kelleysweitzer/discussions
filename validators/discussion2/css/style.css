@@ -1,0 +1,19 @@
+h1{
+    font-size:30px;
+    text-align: center;
+    color: navy;
+
+}
+
+h2{
+
+    font-size:30 px;
+    color:navy;
+    text-shadow: gray 1px 1px .5px;
+
+}
+
+ol{
+    list-style-image: url(https://github.com/UMSIComplexWebDesign/discussions/blob/master/html_practice/imgs/tinyM.png?raw=true);
+
+}
